@@ -10,6 +10,4 @@ RUN pip install -r requirements.txt
 
 RUN python ./init_db.py
 
-#ENTRYPOINT ["python", "./init_db.py", "app_b.py"]
-
 CMD ["python",  "app_b.py"]
