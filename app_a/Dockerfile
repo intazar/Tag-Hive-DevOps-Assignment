@@ -12,7 +12,3 @@ RUN pip install -r requirements.txt
 
 CMD ["python",  "app_a.py"]
 
-#COPY tag-five .
-
-#CMD ["python", "apps/app_a/app_a.py"]
-
