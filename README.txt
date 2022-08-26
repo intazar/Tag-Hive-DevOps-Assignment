@@ -60,6 +60,8 @@ By kubectl get all command we see total number of pods are running, service run
 
 
 2. For app_b application we use the same step for dockerize and deploy application on the Kubernetes as we did for app_a application
+
+Note : I have used comment format in deployment.yml file for better understaning of flow of code.
  
 
 Thanks & Regards
