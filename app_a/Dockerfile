@@ -1,6 +1,4 @@
-#Base Image (As we know anaconda3 is on Ubuntu OS)
-
-#FROM continuumio/anaconda3:latest
+#Base Image 
 
 FROM python:3.9-slim-buster
 
